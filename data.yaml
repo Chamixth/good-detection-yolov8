@@ -2,12 +2,12 @@ train: ../train/images
 val: ../valid/images
 test: ../test/images
 
-nc: 4
-names: ['Ceryloan TEA', 'Chilli Powder', 'Lak Lunu', 'Viva Malt']
+nc: 6
+names: ['Central Tea', 'Ceryloan TEA', 'Chilli Powder', 'Harischandra Coffee', 'Lak Lunu', 'Viva Malt']
 
 roboflow:
   workspace: asan-k1yfi
   project: goods-h8byp
-  version: 2
+  version: 3
   license: CC BY 4.0
-  url: https://universe.roboflow.com/asan-k1yfi/goods-h8byp/dataset/2
+  url: https://universe.roboflow.com/asan-k1yfi/goods-h8byp/dataset/3

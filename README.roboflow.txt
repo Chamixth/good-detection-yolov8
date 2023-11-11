@@ -1,8 +1,8 @@
 
-Goods - v2 2023-10-21 11:22am
+Goods - v3 2023-11-11 12:40pm
 ==============================
 
-This dataset was exported via roboflow.com on October 21, 2023 at 5:55 AM GMT
+This dataset was exported via roboflow.com on November 11, 2023 at 3:14 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 239 images.
+The dataset includes 541 images.
 Packets are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:
